@@ -1,7 +1,7 @@
 ### Hi there, I'm Max Yuri 👋
 
 #### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat] (https://rocketseat.com.br/) and [B7Web] (https://b7web.com.br/).
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) and [B7Web](https://b7web.com.br/).
 
 #### Current stack
 - ⚡️ Main Language: `Javascript`
