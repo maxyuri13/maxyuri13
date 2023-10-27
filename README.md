@@ -1,7 +1,9 @@
-### Hi there, I'm Max Yuri 👋
+![perfil github](https://github.com/maxyuri13/maxyuri13/assets/91703339/03d478a5-0db7-4256-9215-fe050bdc17ec)
 
-#### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) and [B7Web](https://b7web.com.br/).
+
+### 👀 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+ - 📖 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) and [B7Web](https://b7web.com.br/).
+ - 🎓 I'm Computer Engineer, Graduating in December 2022.
 
 #### Current stack
 - ⚡️ Main Language: `Javascript`
