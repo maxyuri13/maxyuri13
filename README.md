@@ -18,4 +18,7 @@
 
 #### Contacts
 
-- 📬 Email: max.yuri.13@hotmail.com
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maxyuri13)](https://github.com/maxyuri13)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxyuri13/)](https://www.linkedin.com/in/maxyuri13/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:max.yuri.13@hotmail.com)](mailto:max.yuri.13@hotmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571992402273)](https://api.whatsapp.com/send?phone=5571992402273)
