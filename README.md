@@ -6,12 +6,12 @@
  - 🎓 I'm Computer Engineer, Graduating in December 2022.
 <br><br>
 
-### 👀 Github Stats
+### 🐱‍👤 Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxyuri13&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxyuri13&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Languages
+### 💻 Languages
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,7 +25,7 @@
  <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-### Contacts
+### 🗃️ Contacts
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maxyuri13)](https://github.com/maxyuri13)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxyuri13/)](https://www.linkedin.com/in/maxyuri13/)
