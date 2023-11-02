@@ -4,17 +4,23 @@
 ### 👀 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
  - 📖 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) and [B7Web](https://b7web.com.br/).
  - 🎓 I'm Computer Engineer, Graduating in December 2022.
+<br><br>
 
-#### Current stack
-- ⚡️ Main Language: `Javascript`
-- 🚀 Secondary Language: `Java`
--  📡 Backend: `Nodejs`, `TypeScript`
--  🔥 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`, `NextJS`
--  🗃️ Database: `Oracle`, `MySQL`, `MongoDB`
--  🎨 Layout Design: `Figma`
--  📦️ Version code control: `Git & Github`
--  🔨 Tools: `VsCode`, `Markdown`
--  🌎 I'm mostly active within the `Rocketseat Community` and `B7Web Community`
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxyuri13&show_icons=true&theme=radical)
+
+#### Languages
+
+<div style="display: inline_block"><br/>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+ <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+ <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
 
 #### Contacts
 
