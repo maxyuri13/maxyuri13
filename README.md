@@ -2,7 +2,7 @@
 
 
 ### 👀 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
- - 📖 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) and [B7Web](https://b7web.com.br/).
+ - 📖 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) and [DIO](https://dio.me/).
  - 🎓 I'm Computer Engineer, Graduating in December 2022.
 <br><br>
 
